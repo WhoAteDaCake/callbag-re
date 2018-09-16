@@ -1,0 +1,9 @@
+node_modules
+lib
+build
+
+*.bs.js
+.DS_Store
+.merlin
+.bsb.lock
+npm-debug.log
